@@ -1,2 +1,2 @@
 # NotRandom
-A Web game built from HTML,CSS and jQuery(unfinished)
+A Web game built from HTML,CSS and jQuery (unfinished)
