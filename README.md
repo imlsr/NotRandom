@@ -1,2 +1,2 @@
 # NotRandom
-A game where you try to guess a number other than a random number generated (unfinished)
+A Web game built from HTML,CSS and jquery (unfinished)
